@@ -7,4 +7,5 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 2: Comments and Pound Characters
 - [x] Exercise 3: Numbers and Math
 - [x] Exercise 4: Variables and Names
-- [ ] Exercise 5: More Variables and Printing
+- [x] Exercise 5: More Variables and Printing
+- [ ] Exercise 6: Strings and Text
