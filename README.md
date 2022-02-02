@@ -9,4 +9,5 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 4: Variables and Names
 - [x] Exercise 5: More Variables and Printing
 - [x] Exercise 6: Strings and Text
-- [ ] Exercise 7: More Printing
+- [x] Exercise 7: More Printing
+- [ ] Exercise 8: Printing, Printing
