@@ -10,4 +10,5 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 5: More Variables and Printing
 - [x] Exercise 6: Strings and Text
 - [x] Exercise 7: More Printing
-- [ ] Exercise 8: Printing, Printing
+- [x] Exercise 8: Printing, Printing
+- [ ] Exercise 9: Printing, Printing, Printing
