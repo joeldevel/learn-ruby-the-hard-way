@@ -11,4 +11,10 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 6: Strings and Text
 - [x] Exercise 7: More Printing
 - [x] Exercise 8: Printing, Printing
-- [ ] Exercise 9: Printing, Printing, Printing
+- [x] Exercise 9: Printing, Printing, Printing
+- [x] Exercise 10: What Was That?
+- [x] Exercise 11: Asking Questions
+- [x] Exercise 12: Prompting People for Numbers
+- [x] Exercise 13: Parameters, Unpacking, Variables
+- [x] Exercise 14: Prompting and Passing
+- [ ] Exercise 15: Reading Files
