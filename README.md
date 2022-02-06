@@ -17,4 +17,5 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 12: Prompting People for Numbers
 - [x] Exercise 13: Parameters, Unpacking, Variables
 - [x] Exercise 14: Prompting and Passing
-- [ ] Exercise 15: Reading Files
+- [x] Exercise 15: Reading Files
+- [ ] Exercise 16: Reading and Writing Files
