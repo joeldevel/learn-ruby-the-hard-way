@@ -18,4 +18,5 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 13: Parameters, Unpacking, Variables
 - [x] Exercise 14: Prompting and Passing
 - [x] Exercise 15: Reading Files
-- [ ] Exercise 16: Reading and Writing Files
+- [x] Exercise 16: Reading and Writing Files
+- [ ] Exercise 17: More Files
