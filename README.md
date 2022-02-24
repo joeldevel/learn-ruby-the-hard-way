@@ -19,4 +19,5 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 14: Prompting and Passing
 - [x] Exercise 15: Reading Files
 - [x] Exercise 16: Reading and Writing Files
-- [ ] Exercise 17: More Files
+- [x] Exercise 17: More Files
+- [ ] Exercise 18: Names, Variables, Code, Functions
