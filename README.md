@@ -21,5 +21,5 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 16: Reading and Writing Files
 - [x] Exercise 17: More Files
 - [x] Exercise 18: Names, Variables, Code, Functions
-- [ ] Exercise 19: Functions and Variables
+- [x] Exercise 19: Functions and Variables
 - [ ] Exercise 20: Functions and Files
