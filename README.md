@@ -23,4 +23,4 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 18: Names, Variables, Code, Functions
 - [x] Exercise 19: Functions and Variables
 - [x] Exercise 20: Functions and Files
-- [ ] Exercise 21: Functions Can Return Something
+- [x] Exercise 21: Functions Can Return Something
