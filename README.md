@@ -22,4 +22,5 @@ Following Zed Shaw's tutorial  at https://learnrubythehardway.org
 - [x] Exercise 17: More Files
 - [x] Exercise 18: Names, Variables, Code, Functions
 - [x] Exercise 19: Functions and Variables
-- [ ] Exercise 20: Functions and Files
+- [x] Exercise 20: Functions and Files
+- [ ] Exercise 21: Functions Can Return Something
